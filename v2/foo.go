@@ -1,4 +1,4 @@
-package v2
+package gomodtest
 
 func A0() int {
 	return 2
