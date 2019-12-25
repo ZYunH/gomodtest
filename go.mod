@@ -1,3 +1,3 @@
-module github/ZYunH/gomodtest
+module github.com/ZYunH/gomodtest
 
 go 1.13
